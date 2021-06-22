@@ -38,8 +38,7 @@ An example request body is:
   "date_of_birth": "1980-05-01" 
 }
 
-```
-   Response 
+Response 
 
    ```json
 {
