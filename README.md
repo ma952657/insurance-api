@@ -48,7 +48,7 @@ Response
     "lastName": "Shahu",
     "date_of_birth": "1992-12-15"
 }
-,,,
+```
 
 2.Get Details of drivers by cretaed date
   `http://localhost:8080/v1/drivers/byDate?date=<date>`
