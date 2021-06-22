@@ -50,7 +50,8 @@ Response
 }
 ```
 
-2.Get Details of drivers by cretaed date
+2. Get list of all drivers created after the specified date.
+
   `http://localhost:8080/v1/drivers/byDate?date=<date>`
 Method:`GET`
 Response:
@@ -65,7 +66,9 @@ Response:
   }
 ]
 ```
-3.Get All Drivers
+
+3. Get All Drivers
+
 `http://localhost:8080/v1/drivers`
 Method:`GET`
 Response:
